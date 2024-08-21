@@ -16,7 +16,7 @@
     "start": "node .output/server/index.mjs"
   },
   "dependencies": {
-    "dayjs": "^1.11.10"
+    "dayjs": "^1.11.12"
   },
   "devDependencies": {
     "@antfu/eslint-config": "2.6.4",
